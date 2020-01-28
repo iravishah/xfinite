@@ -50,6 +50,18 @@ async function getRoomsList(req, res, next) {
   next();
 }
 
+/**
+ * Creating every booking as new single entry which maskes our query faster to search for available rooms
+ */
+
+/**
+ *
+ *
+ * @param {*} req
+ * @param {*} res
+ * @param {*} next
+ * @returns
+ */
 async function reseveRoom(req, res, next) {
   const room = req.room;
   const data = {
