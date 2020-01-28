@@ -1,0 +1,307 @@
+{"uid":"6dc9e7a0-4127-11ea-a5bf-7d3908fcde36","level":"info","message":"db is: expressapi"}
+{"uid":"6dca5cd0-4127-11ea-a5bf-7d3908fcde36","level":"info","message":"replicas: localhost:27017"}
+{"uid":"6dcca6c0-4127-11ea-a5bf-7d3908fcde36","level":"info","message":"api server started on port 8080"}
+{"uid":"6dd09e60-4127-11ea-a5bf-7d3908fcde36","level":"info","message":"mongo db connected!"}
+{"uid":"6dd09e61-4127-11ea-a5bf-7d3908fcde36","level":"info","message":"mongo db connection opened!"}
+{"uid":"f00f83a0-4127-11ea-8a97-2f09a5853244","level":"info","message":"db is: expressapi"}
+{"uid":"f00fd1c0-4127-11ea-8a97-2f09a5853244","level":"info","message":"replicas: localhost:27017"}
+{"uid":"f0130610-4127-11ea-8a97-2f09a5853244","level":"info","message":"api server started on port 8080"}
+{"uid":"f0174bd0-4127-11ea-8a97-2f09a5853244","level":"info","message":"mongo db connected!"}
+{"uid":"f01772e0-4127-11ea-8a97-2f09a5853244","level":"info","message":"mongo db connection opened!"}
+{"uid":"0733bd30-4128-11ea-9a9b-a1f3469552bd","level":"info","message":"db is: expressapi"}
+{"uid":"07343260-4128-11ea-9a9b-a1f3469552bd","level":"info","message":"replicas: localhost:27017"}
+{"uid":"0736ca70-4128-11ea-9a9b-a1f3469552bd","level":"info","message":"api server started on port 8080"}
+{"uid":"073ae920-4128-11ea-9a9b-a1f3469552bd","level":"info","message":"mongo db connected!"}
+{"uid":"073ae921-4128-11ea-9a9b-a1f3469552bd","level":"info","message":"mongo db connection opened!"}
+{"uid":"2f1a9530-4128-11ea-a8cf-2d93d70ac658","level":"info","message":"db is: expressapi"}
+{"uid":"2f1ae350-4128-11ea-a8cf-2d93d70ac658","level":"info","message":"replicas: localhost:27017"}
+{"uid":"2f1d2d40-4128-11ea-a8cf-2d93d70ac658","level":"info","message":"api server started on port 8080"}
+{"uid":"2f214bf0-4128-11ea-a8cf-2d93d70ac658","level":"info","message":"mongo db connected!"}
+{"uid":"2f217300-4128-11ea-a8cf-2d93d70ac658","level":"info","message":"mongo db connection opened!"}
+{"uid":"58f4ffd0-4128-11ea-be37-c1e8b632d2a9","level":"info","message":"db is: expressapi"}
+{"uid":"58f57500-4128-11ea-be37-c1e8b632d2a9","level":"info","message":"replicas: localhost:27017"}
+{"uid":"58f7e600-4128-11ea-be37-c1e8b632d2a9","level":"info","message":"api server started on port 8080"}
+{"uid":"58fb4160-4128-11ea-be37-c1e8b632d2a9","level":"info","message":"mongo db connected!"}
+{"uid":"58fb6870-4128-11ea-be37-c1e8b632d2a9","level":"info","message":"mongo db connection opened!"}
+{"uid":"80f6b600-412c-11ea-96c5-e9d2270f8dcd","level":"info","message":"db is: expressapi"}
+{"uid":"80f70420-412c-11ea-96c5-e9d2270f8dcd","level":"info","message":"replicas: localhost:27017"}
+{"uid":"80f97520-412c-11ea-96c5-e9d2270f8dcd","level":"info","message":"api server started on port 8080"}
+{"uid":"80fcf790-412c-11ea-96c5-e9d2270f8dcd","level":"info","message":"mongo db connected!"}
+{"uid":"80fd45b0-412c-11ea-96c5-e9d2270f8dcd","level":"info","message":"mongo db connection opened!"}
+{"uid":"9bb3f4d0-412c-11ea-89d5-bd12e2586785","level":"info","message":"db is: expressapi"}
+{"uid":"9bb442f0-412c-11ea-89d5-bd12e2586785","level":"info","message":"replicas: localhost:27017"}
+{"uid":"9bb6b3f0-412c-11ea-89d5-bd12e2586785","level":"info","message":"api server started on port 8080"}
+{"uid":"9bba8480-412c-11ea-89d5-bd12e2586785","level":"info","message":"mongo db connected!"}
+{"uid":"9bbaab90-412c-11ea-89d5-bd12e2586785","level":"info","message":"mongo db connection opened!"}
+{"uid":"c6850990-412e-11ea-a869-51dc69054b22","level":"info","message":"db is: expressapi"}
+{"uid":"c6857ec0-412e-11ea-a869-51dc69054b22","level":"info","message":"replicas: localhost:27017"}
+{"uid":"c68864f0-412e-11ea-a869-51dc69054b22","level":"info","message":"api server started on port 8080"}
+{"uid":"c68cd1c0-412e-11ea-a869-51dc69054b22","level":"info","message":"mongo db connected!"}
+{"uid":"c68d1fe0-412e-11ea-a869-51dc69054b22","level":"info","message":"mongo db connection opened!"}
+{"uid":"d1273490-412e-11ea-a9a9-89c4e075b4fe","level":"info","message":"db is: expressapi"}
+{"uid":"d127a9c0-412e-11ea-a9a9-89c4e075b4fe","level":"info","message":"replicas: localhost:27017"}
+{"uid":"d129f3b0-412e-11ea-a9a9-89c4e075b4fe","level":"info","message":"api server started on port 8080"}
+{"uid":"d12dc440-412e-11ea-a9a9-89c4e075b4fe","level":"info","message":"mongo db connected!"}
+{"uid":"d12deb50-412e-11ea-a9a9-89c4e075b4fe","level":"info","message":"mongo db connection opened!"}
+{"uid":"e9490800-412e-11ea-ab5e-df035c211247","level":"info","message":"db is: expressapi"}
+{"uid":"e9497d30-412e-11ea-ab5e-df035c211247","level":"info","message":"replicas: localhost:27017"}
+{"uid":"e94ba010-412e-11ea-ab5e-df035c211247","level":"info","message":"api server started on port 8080"}
+{"uid":"e94fbec0-412e-11ea-ab5e-df035c211247","level":"info","message":"mongo db connected!"}
+{"uid":"e94fe5d0-412e-11ea-ab5e-df035c211247","level":"info","message":"mongo db connection opened!"}
+{"uid":"fad53800-412e-11ea-8ec7-692839b809c5","level":"info","message":"db is: expressapi"}
+{"uid":"fad58620-412e-11ea-8ec7-692839b809c5","level":"info","message":"replicas: localhost:27017"}
+{"uid":"fad81e30-412e-11ea-8ec7-692839b809c5","level":"info","message":"api server started on port 8080"}
+{"uid":"fadb5280-412e-11ea-8ec7-692839b809c5","level":"info","message":"mongo db connected!"}
+{"uid":"fadb7990-412e-11ea-8ec7-692839b809c5","level":"info","message":"mongo db connection opened!"}
+{"uid":"28a12820-412f-11ea-bb9c-1bd45f0e888b","level":"info","message":"db is: expressapi"}
+{"uid":"28a19d50-412f-11ea-bb9c-1bd45f0e888b","level":"info","message":"replicas: localhost:27017"}
+{"uid":"28a40e50-412f-11ea-bb9c-1bd45f0e888b","level":"info","message":"api server started on port 8080"}
+{"uid":"28a7b7d0-412f-11ea-bb9c-1bd45f0e888b","level":"info","message":"mongo db connected!"}
+{"uid":"28a7dee0-412f-11ea-bb9c-1bd45f0e888b","level":"info","message":"mongo db connection opened!"}
+{"uid":"863e0020-412f-11ea-a7a0-f3d780a4b892","level":"info","message":"db is: expressapi"}
+{"uid":"863e7550-412f-11ea-a7a0-f3d780a4b892","level":"info","message":"replicas: localhost:27017"}
+{"uid":"8640bf40-412f-11ea-a7a0-f3d780a4b892","level":"info","message":"api server started on port 8080"}
+{"uid":"86441aa0-412f-11ea-a7a0-f3d780a4b892","level":"info","message":"mongo db connected!"}
+{"uid":"864441b0-412f-11ea-a7a0-f3d780a4b892","level":"info","message":"mongo db connection opened!"}
+{"uid":"fa62f8c0-412f-11ea-b10e-09fb72c3813c","level":"info","message":"db is: expressapi"}
+{"uid":"fa636df0-412f-11ea-b10e-09fb72c3813c","level":"info","message":"replicas: localhost:27017"}
+{"uid":"fa65def0-412f-11ea-b10e-09fb72c3813c","level":"info","message":"api server started on port 8080"}
+{"uid":"fa69fda0-412f-11ea-b10e-09fb72c3813c","level":"info","message":"mongo db connected!"}
+{"uid":"fa6a24b0-412f-11ea-b10e-09fb72c3813c","level":"info","message":"mongo db connection opened!"}
+{"uid":"36a3edd0-4130-11ea-b958-e72ad036c111","level":"info","message":"db is: expressapi"}
+{"uid":"36a46300-4130-11ea-b958-e72ad036c111","level":"info","message":"replicas: localhost:27017"}
+{"uid":"36a74930-4130-11ea-b958-e72ad036c111","level":"info","message":"api server started on port 8080"}
+{"uid":"36ab19c0-4130-11ea-b958-e72ad036c111","level":"info","message":"mongo db connected!"}
+{"uid":"36ab19c1-4130-11ea-b958-e72ad036c111","level":"info","message":"mongo db connection opened!"}
+{"uid":"43ae8d50-4130-11ea-bc60-4988a11c14e9","level":"info","message":"db is: expressapi"}
+{"uid":"43aedb70-4130-11ea-bc60-4988a11c14e9","level":"info","message":"replicas: localhost:27017"}
+{"uid":"43b12560-4130-11ea-bc60-4988a11c14e9","level":"info","message":"api server started on port 8080"}
+{"uid":"43b4cee0-4130-11ea-bc60-4988a11c14e9","level":"info","message":"mongo db connected!"}
+{"uid":"43b4f5f0-4130-11ea-bc60-4988a11c14e9","level":"info","message":"mongo db connection opened!"}
+{"uid":"d6fb98f0-4130-11ea-a374-9dd5fe252f45","level":"info","message":"db is: expressapi"}
+{"uid":"d6fbe710-4130-11ea-a374-9dd5fe252f45","level":"info","message":"replicas: localhost:27017"}
+{"uid":"d6fe3100-4130-11ea-a374-9dd5fe252f45","level":"info","message":"api server started on port 8080"}
+{"uid":"d701b370-4130-11ea-a374-9dd5fe252f45","level":"info","message":"mongo db connected!"}
+{"uid":"d701da80-4130-11ea-a374-9dd5fe252f45","level":"info","message":"mongo db connection opened!"}
+{"uid":"ecf6e2e0-4130-11ea-80ef-4daf7fb79bed","level":"info","message":"db is: expressapi"}
+{"uid":"ecf75810-4130-11ea-80ef-4daf7fb79bed","level":"info","message":"replicas: localhost:27017"}
+{"uid":"ecfa3e40-4130-11ea-80ef-4daf7fb79bed","level":"info","message":"api server started on port 8080"}
+{"uid":"ecfde7c0-4130-11ea-80ef-4daf7fb79bed","level":"info","message":"mongo db connected!"}
+{"uid":"ecfe35e0-4130-11ea-80ef-4daf7fb79bed","level":"info","message":"mongo db connection opened!"}
+{"uid":"10158470-4131-11ea-a07a-890e556344d4","level":"info","message":"db is: expressapi"}
+{"uid":"1015f9a0-4131-11ea-a07a-890e556344d4","level":"info","message":"replicas: localhost:27017"}
+{"uid":"101891b0-4131-11ea-a07a-890e556344d4","level":"info","message":"api server started on port 8080"}
+{"uid":"101c6240-4131-11ea-a07a-890e556344d4","level":"info","message":"mongo db connected!"}
+{"uid":"101c8950-4131-11ea-a07a-890e556344d4","level":"info","message":"mongo db connection opened!"}
+{"uid":"1bbf8280-4131-11ea-92f7-ab4dcd12021c","level":"info","message":"db is: expressapi"}
+{"uid":"1bbfd0a0-4131-11ea-92f7-ab4dcd12021c","level":"info","message":"replicas: localhost:27017"}
+{"uid":"1bc21a90-4131-11ea-92f7-ab4dcd12021c","level":"info","message":"api server started on port 8080"}
+{"uid":"1bc61230-4131-11ea-92f7-ab4dcd12021c","level":"info","message":"mongo db connected!"}
+{"uid":"1bc63940-4131-11ea-92f7-ab4dcd12021c","level":"info","message":"mongo db connection opened!"}
+{"uid":"24ec2480-4131-11ea-a3ce-e11ecd6c6b42","level":"info","message":"db is: expressapi"}
+{"uid":"24ec72a0-4131-11ea-a3ce-e11ecd6c6b42","level":"info","message":"replicas: localhost:27017"}
+{"uid":"24eee3a0-4131-11ea-a3ce-e11ecd6c6b42","level":"info","message":"api server started on port 8080"}
+{"uid":"24f23f00-4131-11ea-a3ce-e11ecd6c6b42","level":"info","message":"mongo db connected!"}
+{"uid":"24f26610-4131-11ea-a3ce-e11ecd6c6b42","level":"info","message":"mongo db connection opened!"}
+{"uid":"c9540b40-4132-11ea-a536-b758caafb818","level":"info","message":"db is: expressapi"}
+{"uid":"c9545960-4132-11ea-a536-b758caafb818","level":"info","message":"replicas: localhost:27017"}
+{"uid":"c956a350-4132-11ea-a536-b758caafb818","level":"info","message":"api server started on port 8080"}
+{"uid":"c95a25c0-4132-11ea-a536-b758caafb818","level":"info","message":"mongo db connected!"}
+{"uid":"c95a4cd0-4132-11ea-a536-b758caafb818","level":"info","message":"mongo db connection opened!"}
+{"uid":"d7a53480-4132-11ea-b89c-8562b9c782b7","level":"info","message":"db is: expressapi"}
+{"uid":"d7a5a9b0-4132-11ea-b89c-8562b9c782b7","level":"info","message":"replicas: localhost:27017"}
+{"uid":"d7a7f3a0-4132-11ea-b89c-8562b9c782b7","level":"info","message":"api server started on port 8080"}
+{"uid":"d7ab9d20-4132-11ea-b89c-8562b9c782b7","level":"info","message":"mongo db connected!"}
+{"uid":"d7abc430-4132-11ea-b89c-8562b9c782b7","level":"info","message":"mongo db connection opened!"}
+{"uid":"de3113f0-4132-11ea-a406-d75c938da84c","level":"info","message":"db is: expressapi"}
+{"uid":"de318920-4132-11ea-a406-d75c938da84c","level":"info","message":"replicas: localhost:27017"}
+{"uid":"de33d310-4132-11ea-a406-d75c938da84c","level":"info","message":"api server started on port 8080"}
+{"uid":"de37a3a0-4132-11ea-a406-d75c938da84c","level":"info","message":"mongo db connected!"}
+{"uid":"de37cab0-4132-11ea-a406-d75c938da84c","level":"info","message":"mongo db connection opened!"}
+{"uid":"0f9482b0-4133-11ea-a2af-97a624574e3d","level":"info","message":"db is: expressapi"}
+{"uid":"0f94d0d0-4133-11ea-a2af-97a624574e3d","level":"info","message":"replicas: localhost:27017"}
+{"uid":"0f971ac0-4133-11ea-a2af-97a624574e3d","level":"info","message":"api server started on port 8080"}
+{"uid":"0fadb000-4133-11ea-a2af-97a624574e3d","level":"info","message":"mongo db connected!"}
+{"uid":"0fadd710-4133-11ea-a2af-97a624574e3d","level":"info","message":"mongo db connection opened!"}
+{"uid":"26172510-4133-11ea-ba1c-db06905e613c","level":"info","message":"db is: expressapi"}
+{"uid":"26179a40-4133-11ea-ba1c-db06905e613c","level":"info","message":"replicas: localhost:27017"}
+{"uid":"2619e430-4133-11ea-ba1c-db06905e613c","level":"info","message":"api server started on port 8080"}
+{"uid":"261d3f90-4133-11ea-ba1c-db06905e613c","level":"info","message":"mongo db connected!"}
+{"uid":"261d66a0-4133-11ea-ba1c-db06905e613c","level":"info","message":"mongo db connection opened!"}
+{"uid":"ab43bef0-4134-11ea-886f-69a7d958b6e8","level":"info","message":"db is: expressapi"}
+{"uid":"ab440d10-4134-11ea-886f-69a7d958b6e8","level":"info","message":"replicas: localhost:27017"}
+{"uid":"ab465700-4134-11ea-886f-69a7d958b6e8","level":"info","message":"api server started on port 8080"}
+{"uid":"ab49d970-4134-11ea-886f-69a7d958b6e8","level":"info","message":"mongo db connected!"}
+{"uid":"ab4a0080-4134-11ea-886f-69a7d958b6e8","level":"info","message":"mongo db connection opened!"}
+{"uid":"ea8d8730-4134-11ea-b2bd-ab57e32abf74","level":"info","message":"db is: expressapi"}
+{"uid":"ea8dfc60-4134-11ea-b2bd-ab57e32abf74","level":"info","message":"replicas: localhost:27017"}
+{"uid":"ea906d60-4134-11ea-b2bd-ab57e32abf74","level":"info","message":"api server started on port 8080"}
+{"uid":"ea93efd0-4134-11ea-b2bd-ab57e32abf74","level":"info","message":"mongo db connected!"}
+{"uid":"ea9416e0-4134-11ea-b2bd-ab57e32abf74","level":"info","message":"mongo db connection opened!"}
+{"uid":"f86784a0-4134-11ea-a809-f12b7d3e9dd6","level":"info","message":"db is: expressapi"}
+{"uid":"f867d2c0-4134-11ea-a809-f12b7d3e9dd6","level":"info","message":"replicas: localhost:27017"}
+{"uid":"f86a43c0-4134-11ea-a809-f12b7d3e9dd6","level":"info","message":"api server started on port 8080"}
+{"uid":"f86efeb0-4134-11ea-a809-f12b7d3e9dd6","level":"info","message":"mongo db connected!"}
+{"uid":"f86f4cd0-4134-11ea-a809-f12b7d3e9dd6","level":"info","message":"mongo db connection opened!"}
+{"uid":"4081fd20-413e-11ea-8ce5-63cebd0d464d","level":"info","message":"db is: expressapi"}
+{"uid":"40824b40-413e-11ea-8ce5-63cebd0d464d","level":"info","message":"replicas: localhost:27017"}
+{"uid":"40849530-413e-11ea-8ce5-63cebd0d464d","level":"info","message":"api server started on port 8080"}
+{"uid":"4089ec60-413e-11ea-8ce5-63cebd0d464d","level":"info","message":"mongo db connected!"}
+{"uid":"408a1370-413e-11ea-8ce5-63cebd0d464d","level":"info","message":"mongo db connection opened!"}
+{"uid":"9549a1f0-413e-11ea-bf1c-07048be308db","level":"info","message":"db is: expressapi"}
+{"uid":"9549f010-413e-11ea-bf1c-07048be308db","level":"info","message":"replicas: localhost:27017"}
+{"uid":"954c12f0-413e-11ea-bf1c-07048be308db","level":"info","message":"api server started on port 8080"}
+{"uid":"954f9560-413e-11ea-bf1c-07048be308db","level":"info","message":"mongo db connected!"}
+{"uid":"954fe380-413e-11ea-bf1c-07048be308db","level":"info","message":"mongo db connection opened!"}
+{"uid":"b2dfca50-413e-11ea-8f88-0b69a9341d67","level":"info","message":"db is: expressapi"}
+{"uid":"b2e01870-413e-11ea-8f88-0b69a9341d67","level":"info","message":"replicas: localhost:27017"}
+{"uid":"b2e2b080-413e-11ea-8f88-0b69a9341d67","level":"info","message":"api server started on port 8080"}
+{"uid":"b2e6a820-413e-11ea-8f88-0b69a9341d67","level":"info","message":"mongo db connected!"}
+{"uid":"b2e6cf30-413e-11ea-8f88-0b69a9341d67","level":"info","message":"mongo db connection opened!"}
+{"uid":"fa30ee70-413e-11ea-a484-f336036734ad","level":"info","message":"db is: expressapi"}
+{"uid":"fa3163a0-413e-11ea-a484-f336036734ad","level":"info","message":"replicas: localhost:27017"}
+{"uid":"fa33ad90-413e-11ea-a484-f336036734ad","level":"info","message":"api server started on port 8080"}
+{"uid":"fa3708f0-413e-11ea-a484-f336036734ad","level":"info","message":"mongo db connected!"}
+{"uid":"fa373000-413e-11ea-a484-f336036734ad","level":"info","message":"mongo db connection opened!"}
+{"uid":"1aca1da0-413f-11ea-9029-471fe17eca47","level":"info","message":"db is: expressapi"}
+{"uid":"1aca6bc0-413f-11ea-9029-471fe17eca47","level":"info","message":"replicas: localhost:27017"}
+{"uid":"1acc8ea0-413f-11ea-9029-471fe17eca47","level":"info","message":"api server started on port 8080"}
+{"uid":"1ad01110-413f-11ea-9029-471fe17eca47","level":"info","message":"mongo db connected!"}
+{"uid":"1ad03820-413f-11ea-9029-471fe17eca47","level":"info","message":"mongo db connection opened!"}
+{"uid":"21a68e10-413f-11ea-a4d9-b1fef776a8d4","level":"info","message":"db is: expressapi"}
+{"uid":"21a6dc30-413f-11ea-a4d9-b1fef776a8d4","level":"info","message":"replicas: localhost:27017"}
+{"uid":"21a9c260-413f-11ea-a4d9-b1fef776a8d4","level":"info","message":"api server started on port 8080"}
+{"uid":"21ad6be0-413f-11ea-a4d9-b1fef776a8d4","level":"info","message":"mongo db connected!"}
+{"uid":"21ad92f0-413f-11ea-a4d9-b1fef776a8d4","level":"info","message":"mongo db connection opened!"}
+{"uid":"3c6e5430-413f-11ea-96bd-f36f9157b644","level":"info","message":"db is: expressapi"}
+{"uid":"3c6ea250-413f-11ea-96bd-f36f9157b644","level":"info","message":"replicas: localhost:27017"}
+{"uid":"3c711350-413f-11ea-96bd-f36f9157b644","level":"info","message":"api server started on port 8080"}
+{"uid":"3c753200-413f-11ea-96bd-f36f9157b644","level":"info","message":"mongo db connected!"}
+{"uid":"3c753201-413f-11ea-96bd-f36f9157b644","level":"info","message":"mongo db connection opened!"}
+{"uid":"39eb3650-4140-11ea-b28c-cb8db26f24ba","level":"info","message":"db is: expressapi"}
+{"uid":"39ebab80-4140-11ea-b28c-cb8db26f24ba","level":"info","message":"replicas: localhost:27017"}
+{"uid":"39ee4390-4140-11ea-b28c-cb8db26f24ba","level":"info","message":"api server started on port 8080"}
+{"uid":"39f373b0-4140-11ea-b28c-cb8db26f24ba","level":"info","message":"mongo db connected!"}
+{"uid":"39f39ac0-4140-11ea-b28c-cb8db26f24ba","level":"info","message":"mongo db connection opened!"}
+{"uid":"6543dc80-4140-11ea-a516-79bea3407f3b","level":"info","message":"db is: expressapi"}
+{"uid":"654451b0-4140-11ea-a516-79bea3407f3b","level":"info","message":"replicas: localhost:27017"}
+{"uid":"65469ba0-4140-11ea-a516-79bea3407f3b","level":"info","message":"api server started on port 8080"}
+{"uid":"654a9340-4140-11ea-a516-79bea3407f3b","level":"info","message":"mongo db connected!"}
+{"uid":"654aba50-4140-11ea-a516-79bea3407f3b","level":"info","message":"mongo db connection opened!"}
+{"uid":"920efe70-4140-11ea-b8c5-fd6a9ff2c6f4","level":"info","message":"db is: expressapi"}
+{"uid":"920f73a0-4140-11ea-b8c5-fd6a9ff2c6f4","level":"info","message":"replicas: localhost:27017"}
+{"uid":"9211e4a0-4140-11ea-b8c5-fd6a9ff2c6f4","level":"info","message":"api server started on port 8080"}
+{"uid":"92158e20-4140-11ea-b8c5-fd6a9ff2c6f4","level":"info","message":"mongo db connected!"}
+{"uid":"9215dc40-4140-11ea-b8c5-fd6a9ff2c6f4","level":"info","message":"mongo db connection opened!"}
+{"uid":"f64c2840-4140-11ea-bfc9-d58bef14c397","level":"info","message":"db is: expressapi"}
+{"uid":"f64c7660-4140-11ea-bfc9-d58bef14c397","level":"info","message":"replicas: localhost:27017"}
+{"uid":"f64f5c90-4140-11ea-bfc9-d58bef14c397","level":"info","message":"api server started on port 8080"}
+{"uid":"f6530610-4140-11ea-bfc9-d58bef14c397","level":"info","message":"mongo db connected!"}
+{"uid":"f6532d20-4140-11ea-bfc9-d58bef14c397","level":"info","message":"mongo db connection opened!"}
+{"uid":"2751e6a0-4141-11ea-9216-07ca11536b13","level":"info","message":"db is: expressapi"}
+{"uid":"275234c0-4141-11ea-9216-07ca11536b13","level":"info","message":"replicas: localhost:27017"}
+{"uid":"27547eb0-4141-11ea-9216-07ca11536b13","level":"info","message":"api server started on port 8080"}
+{"uid":"2757da10-4141-11ea-9216-07ca11536b13","level":"info","message":"mongo db connected!"}
+{"uid":"27580120-4141-11ea-9216-07ca11536b13","level":"info","message":"mongo db connection opened!"}
+{"uid":"42064bd0-4141-11ea-a42f-8f59c424bb91","level":"info","message":"db is: expressapi"}
+{"uid":"4206c100-4141-11ea-a42f-8f59c424bb91","level":"info","message":"replicas: localhost:27017"}
+{"uid":"42093200-4141-11ea-a42f-8f59c424bb91","level":"info","message":"api server started on port 8080"}
+{"uid":"420c8d60-4141-11ea-a42f-8f59c424bb91","level":"info","message":"mongo db connected!"}
+{"uid":"420c8d61-4141-11ea-a42f-8f59c424bb91","level":"info","message":"mongo db connection opened!"}
+{"uid":"4aa26da0-4141-11ea-8ee1-63ed52dd0b7a","level":"info","message":"db is: expressapi"}
+{"uid":"4aa2bbc0-4141-11ea-8ee1-63ed52dd0b7a","level":"info","message":"replicas: localhost:27017"}
+{"uid":"4aa505b0-4141-11ea-8ee1-63ed52dd0b7a","level":"info","message":"api server started on port 8080"}
+{"uid":"4aa88820-4141-11ea-8ee1-63ed52dd0b7a","level":"info","message":"mongo db connected!"}
+{"uid":"4aa8af30-4141-11ea-8ee1-63ed52dd0b7a","level":"info","message":"mongo db connection opened!"}
+{"uid":"de47ab60-4141-11ea-b65b-f7bf6e5e1b39","level":"info","message":"db is: expressapi"}
+{"uid":"de482090-4141-11ea-b65b-f7bf6e5e1b39","level":"info","message":"replicas: localhost:27017"}
+{"uid":"de4a6a80-4141-11ea-b65b-f7bf6e5e1b39","level":"info","message":"api server started on port 8080"}
+{"uid":"de4decf0-4141-11ea-b65b-f7bf6e5e1b39","level":"info","message":"mongo db connected!"}
+{"uid":"de4e1400-4141-11ea-b65b-f7bf6e5e1b39","level":"info","message":"mongo db connection opened!"}
+{"uid":"515da500-4142-11ea-9c70-8119dbf247c0","level":"info","message":"db is: expressapi"}
+{"uid":"515df320-4142-11ea-9c70-8119dbf247c0","level":"info","message":"replicas: localhost:27017"}
+{"uid":"51606420-4142-11ea-9c70-8119dbf247c0","level":"info","message":"api server started on port 8080"}
+{"uid":"5163bf80-4142-11ea-9c70-8119dbf247c0","level":"info","message":"mongo db connected!"}
+{"uid":"5163bf81-4142-11ea-9c70-8119dbf247c0","level":"info","message":"mongo db connection opened!"}
+{"uid":"a0b820d0-4142-11ea-b328-a714b3e0cc3a","level":"info","message":"db is: expressapi"}
+{"uid":"a0b86ef0-4142-11ea-b328-a714b3e0cc3a","level":"info","message":"replicas: localhost:27017"}
+{"uid":"a0bab8e0-4142-11ea-b328-a714b3e0cc3a","level":"info","message":"api server started on port 8080"}
+{"uid":"a0bed790-4142-11ea-b328-a714b3e0cc3a","level":"info","message":"mongo db connected!"}
+{"uid":"a0befea0-4142-11ea-b328-a714b3e0cc3a","level":"info","message":"mongo db connection opened!"}
+{"uid":"e85cbc20-4142-11ea-98ad-35a96637a5ab","level":"info","message":"db is: expressapi"}
+{"uid":"e85d3150-4142-11ea-98ad-35a96637a5ab","level":"info","message":"replicas: localhost:27017"}
+{"uid":"e85f7b40-4142-11ea-98ad-35a96637a5ab","level":"info","message":"api server started on port 8080"}
+{"uid":"e86399f0-4142-11ea-98ad-35a96637a5ab","level":"info","message":"mongo db connected!"}
+{"uid":"e863c100-4142-11ea-98ad-35a96637a5ab","level":"info","message":"mongo db connection opened!"}
+{"uid":"727fec00-41df-11ea-8c20-f1881c0e3ea9","level":"info","message":"db is: expressapi"}
+{"uid":"72808840-41df-11ea-8c20-f1881c0e3ea9","level":"info","message":"replicas: localhost:27017"}
+{"uid":"7282d230-41df-11ea-8c20-f1881c0e3ea9","level":"info","message":"api server started on port 8080"}
+{"uid":"728a7350-41df-11ea-8c20-f1881c0e3ea9","level":"info","message":"mongo db connected!"}
+{"uid":"728a9a60-41df-11ea-8c20-f1881c0e3ea9","level":"info","message":"mongo db connection opened!"}
+{"uid":"96c9a010-41df-11ea-86a5-1b45b8b46dd2","level":"info","message":"db is: expressapi"}
+{"uid":"96ca1540-41df-11ea-86a5-1b45b8b46dd2","level":"info","message":"replicas: localhost:27017"}
+{"uid":"96cc8640-41df-11ea-86a5-1b45b8b46dd2","level":"info","message":"api server started on port 8080"}
+{"uid":"96d008b0-41df-11ea-86a5-1b45b8b46dd2","level":"info","message":"mongo db connected!"}
+{"uid":"96d02fc0-41df-11ea-86a5-1b45b8b46dd2","level":"info","message":"mongo db connection opened!"}
+{"uid":"f84b0540-41df-11ea-b35e-49c2b8b0f035","level":"info","message":"db is: expressapi"}
+{"uid":"f84b5360-41df-11ea-b35e-49c2b8b0f035","level":"info","message":"replicas: localhost:27017"}
+{"uid":"f84dc460-41df-11ea-b35e-49c2b8b0f035","level":"info","message":"api server started on port 8080"}
+{"uid":"f85146d0-41df-11ea-b35e-49c2b8b0f035","level":"info","message":"mongo db connected!"}
+{"uid":"f8516de0-41df-11ea-b35e-49c2b8b0f035","level":"info","message":"mongo db connection opened!"}
+{"uid":"23810840-41e0-11ea-958a-51acedc44fab","level":"info","message":"db is: expressapi"}
+{"uid":"23815660-41e0-11ea-958a-51acedc44fab","level":"info","message":"replicas: localhost:27017"}
+{"uid":"2383a050-41e0-11ea-958a-51acedc44fab","level":"info","message":"api server started on port 8080"}
+{"uid":"238770e0-41e0-11ea-958a-51acedc44fab","level":"info","message":"mongo db connected!"}
+{"uid":"238797f0-41e0-11ea-958a-51acedc44fab","level":"info","message":"mongo db connection opened!"}
+{"uid":"5a6cc920-41e0-11ea-b7c3-b5356c2b706e","level":"info","message":"db is: expressapi"}
+{"uid":"5a6d1740-41e0-11ea-b7c3-b5356c2b706e","level":"info","message":"replicas: localhost:27017"}
+{"uid":"5a6fd660-41e0-11ea-b7c3-b5356c2b706e","level":"info","message":"api server started on port 8080"}
+{"uid":"5a749150-41e0-11ea-b7c3-b5356c2b706e","level":"info","message":"mongo db connected!"}
+{"uid":"5a74b860-41e0-11ea-b7c3-b5356c2b706e","level":"info","message":"mongo db connection opened!"}
+{"uid":"6e631b50-41e0-11ea-8f19-d785cdfc1c56","level":"info","message":"db is: expressapi"}
+{"uid":"6e639080-41e0-11ea-8f19-d785cdfc1c56","level":"info","message":"replicas: localhost:27017"}
+{"uid":"6e664fa0-41e0-11ea-8f19-d785cdfc1c56","level":"info","message":"api server started on port 8080"}
+{"uid":"6e6a4740-41e0-11ea-8f19-d785cdfc1c56","level":"info","message":"mongo db connected!"}
+{"uid":"6e6a6e50-41e0-11ea-8f19-d785cdfc1c56","level":"info","message":"mongo db connection opened!"}
+{"uid":"81fcce90-41e0-11ea-9b06-cdc478e9e6dc","level":"info","message":"db is: expressapi"}
+{"uid":"81fd43c0-41e0-11ea-9b06-cdc478e9e6dc","level":"info","message":"replicas: localhost:27017"}
+{"uid":"81ff8db0-41e0-11ea-9b06-cdc478e9e6dc","level":"info","message":"api server started on port 8080"}
+{"uid":"82038550-41e0-11ea-9b06-cdc478e9e6dc","level":"info","message":"mongo db connected!"}
+{"uid":"8203ac60-41e0-11ea-9b06-cdc478e9e6dc","level":"info","message":"mongo db connection opened!"}
+{"uid":"b25eabd0-41e0-11ea-b9fd-33be21d3f7aa","level":"info","message":"db is: expressapi"}
+{"uid":"b25f2100-41e0-11ea-b9fd-33be21d3f7aa","level":"info","message":"replicas: localhost:27017"}
+{"uid":"b2616af0-41e0-11ea-b9fd-33be21d3f7aa","level":"info","message":"api server started on port 8080"}
+{"uid":"b264ed60-41e0-11ea-b9fd-33be21d3f7aa","level":"info","message":"mongo db connected!"}
+{"uid":"b2651470-41e0-11ea-b9fd-33be21d3f7aa","level":"info","message":"mongo db connection opened!"}
+{"uid":"f25296c0-41e0-11ea-9617-f373554784c7","level":"info","message":"db is: expressapi"}
+{"uid":"f2530bf0-41e0-11ea-9617-f373554784c7","level":"info","message":"replicas: localhost:27017"}
+{"uid":"f2557cf0-41e0-11ea-9617-f373554784c7","level":"info","message":"api server started on port 8080"}
+{"uid":"f2599ba0-41e0-11ea-9617-f373554784c7","level":"info","message":"mongo db connected!"}
+{"uid":"f259c2b0-41e0-11ea-9617-f373554784c7","level":"info","message":"mongo db connection opened!"}
+{"uid":"fdd9ca90-41e0-11ea-9af7-f184119b4551","level":"info","message":"db is: expressapi"}
+{"uid":"fdda18b0-41e0-11ea-9af7-f184119b4551","level":"info","message":"replicas: localhost:27017"}
+{"uid":"fddc62a0-41e0-11ea-9af7-f184119b4551","level":"info","message":"api server started on port 8080"}
+{"uid":"fddfe510-41e0-11ea-9af7-f184119b4551","level":"info","message":"mongo db connected!"}
+{"uid":"fde00c20-41e0-11ea-9af7-f184119b4551","level":"info","message":"mongo db connection opened!"}
+{"uid":"2076ffc0-41e4-11ea-9c91-bb5eae37c7dc","level":"info","message":"api server started on port 8080"}
+{"uid":"2747d770-41e4-11ea-a14d-b745ed140dfa","level":"info","message":"api server started on port 8080"}
+{"uid":"3d0ccf20-41e4-11ea-8c70-a1d7aa906ce0","level":"info","message":"api server started on port 8080"}
+{"uid":"4629b9b0-41e4-11ea-a408-b54803d22dd3","level":"info","message":"api server started on port 8080"}
+{"uid":"53149c30-41e4-11ea-9060-95c12b607dc4","level":"info","message":"api server started on port 8080"}
+{"uid":"dcdbc240-41e4-11ea-948c-33a35fdf6dc3","level":"info","message":"api server started on port 8080"}
+{"uid":"f7230dc0-41e4-11ea-855a-7b94671d1327","level":"info","message":"api server started on port 8080"}
+{"uid":"0805b750-41e5-11ea-80b2-35a7cfa581b7","level":"info","message":"api server started on port 8080"}
+{"uid":"12507380-41e5-11ea-acaf-9d4175568b40","level":"info","message":"api server started on port 8080"}
+{"uid":"1d8086a0-41e5-11ea-a2b6-47e657a16576","level":"info","message":"api server started on port 8080"}
+{"uid":"8cccce10-41e5-11ea-92c1-1dc91aa4f4f9","level":"info","message":"api server started on port 8080"}
+{"uid":"ca932aa0-41e5-11ea-a4c1-b5ace7cc02dd","level":"info","message":"api server started on port 8080"}
+{"uid":"1155ca60-41e6-11ea-bdf9-1bf58633985c","level":"info","message":"api server started on port 8080"}
+{"uid":"27529af0-41e6-11ea-a37e-47e90297937a","level":"info","message":"api server started on port 8080"}
+{"uid":"8fb356c0-41e6-11ea-a293-498bdd3cf62c","level":"info","message":"api server started on port 8080"}
+{"uid":"9d1abc40-41e6-11ea-8db1-0ff5b13b8070","level":"info","message":"api server started on port 8080"}
+{"uid":"d3da3d00-41e6-11ea-9e78-adecfde8d8f2","level":"info","message":"api server started on port 8080"}
+{"uid":"2cd758b0-41e8-11ea-8384-710f4f283fd2","level":"info","message":"db is: expressapi"}
+{"uid":"2cd7a6d0-41e8-11ea-8384-710f4f283fd2","level":"info","message":"replicas: localhost:27017"}
+{"uid":"2cd9c9b0-41e8-11ea-8384-710f4f283fd2","level":"info","message":"api server started on port 8080"}
+{"uid":"2cdc61c0-41e8-11ea-8384-710f4f283fd2","level":"info","message":"mongo db connected!"}
+{"uid":"2cdc88d0-41e8-11ea-8384-710f4f283fd2","level":"info","message":"mongo db connection opened!"}

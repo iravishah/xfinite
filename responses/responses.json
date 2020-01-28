@@ -1,0 +1,66 @@
+{
+  "m200": {
+    "response": {
+      "message": "OK",
+      "code": 200
+    },
+    "status": 200,
+    "description": "ok reply"
+  },
+  "m101": {
+    "response": {
+      "error": "admin Authentication Failed",
+      "code": 101
+    },
+    "status": 401,
+    "description": "user failed to provide right admin authorization"
+  },
+  "m102": {
+    "response": {
+      "error": "error while processing your request, please try again later",
+      "code": 102
+    },
+    "status": 400,
+    "description": "some issue with mongodb"
+  },
+  "m103": {
+    "response": {
+      "error": "invalid email id",
+      "code": 103
+    },
+    "status": 400,
+    "description": "email format is wrong"
+  },
+  "m104": {
+    "response": {
+      "error": "booking not allowed",
+      "code": 104
+    },
+    "status": 404,
+    "description": "booking not allowed"
+  },
+  "m105": {
+    "response": {
+      "error": "rooms not available",
+      "code": 105
+    },
+    "status": 400,
+    "description": "rooms not available"
+  },
+  "m106": {
+    "response": {
+      "error": "invalid start or end date",
+      "code": 106
+    },
+    "status": 412,
+    "description": "invalid start or end date"
+  },
+  "m107": {
+    "response": {
+      "error": "missing parameter type or start date",
+      "code": 107
+    },
+    "status": 412,
+    "description": "missing parameter type or start date"
+  }
+}

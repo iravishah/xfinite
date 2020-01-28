@@ -1,0 +1,44 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "Express apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "export NODE_ENV=test && mocha --exit -R spec tests/boot.test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iravishah/express-api.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "apis"
+  ],
+  "author": "Ravi Shah <rvshah1992@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "express": "4.17.1",
+    "fs-extra": "8.1.0",
+    "helmet": "3.20.0",
+    "lodash": "4.17.15",
+    "moment": "^2.24.0",
+    "mongo-uri-builder": "2.0.0",
+    "mongoose": "5.6.3",
+    "uuid": "3.3.2",
+    "validate": "3.0.1",
+    "validator": "11.1.0",
+    "winston": "3.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/iravishah/express-api/issues"
+  },
+  "homepage": "https://github.com/iravishah/express-api#readme",
+  "devDependencies": {
+    "mocha": "6.2.1",
+    "mockgoose-fix": "7.3.6",
+    "should": "13.2.3"
+  }
+}
