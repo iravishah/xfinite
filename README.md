@@ -16,6 +16,14 @@ switched to db expressapi
 Successfully added user: { "user" : "admin", "roles" : [ "readWrite", "dbAdmin" ] }
 ```
 
+### Step 3: Restore prerequisite dump
+
+Dump is commited inside the repo
+
+```sh
+> mongorestore --db expressapi <location_to_dump>
+```
+
 ### Step 3: Admin key to access resources
 ```sh
 admin_key: test
