@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iravishah/express-api.git"
+    "url": "git@github.com:iravishah/xfinite.git"
   },
   "keywords": [
     "express",
@@ -33,9 +33,9 @@
     "winston": "3.2.1"
   },
   "bugs": {
-    "url": "https://github.com/iravishah/express-api/issues"
+    "url": "https://github.com/iravishah/xfinite.git/issues"
   },
-  "homepage": "https://github.com/iravishah/express-api#readme",
+  "homepage": "https://github.com/iravishah/xfinite.git#readme",
   "devDependencies": {
     "mocha": "6.2.1",
     "mockgoose-fix": "7.3.6",
