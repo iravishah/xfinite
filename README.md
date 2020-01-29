@@ -24,16 +24,16 @@ Dump is commited inside the repo
 > mongorestore --db expressapi <location_to_dump>
 ```
 
-### Step 3: Admin key to access resources
+### Step 4: Admin key to access resources
 ```sh
 admin_key: test
 ```
 
-### Step 3: Install the dependencies
+### Step 5: Install the dependencies
 ```sh
 npm install
 ```
-### Step 4: Run
+### Step 6: Run
 ```sh
 npm run start
 ```
