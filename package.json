@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/iravishah/xfinite.git#readme",
   "devDependencies": {
-    "mocha": "6.2.1",
+    "mocha": "10.2.0",
     "mockgoose-fix": "7.3.6",
     "should": "13.2.3"
   }
